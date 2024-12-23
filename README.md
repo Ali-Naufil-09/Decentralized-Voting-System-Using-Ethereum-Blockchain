@@ -15,5 +15,9 @@ A prototype of decentralized voting system using Ethereum blockchain:
 - Metamask
 - Python 
 - FastAPI
-- MySQL Database 
+- MySQL Database
+- Ganache
+- HTML
+- CSS
+- JS
 
